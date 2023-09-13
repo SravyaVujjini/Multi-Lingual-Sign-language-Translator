@@ -1,4 +1,4 @@
-# Multi-Lingual-Sign-language-
+# Multi-Lingual-Sign-language-Translator
 
 This project is two-fold endeavour with Comparative Study as the research part and Tri-lingual sign language translator as the application part. 
 
